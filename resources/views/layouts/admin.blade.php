@@ -24,8 +24,8 @@
         {{-- Laravel標準で用意されているCSSを読み込みます --}}
         <link href="{{ asset('css/app.css') }}" rel="stylesheet">
 
-        <!-- 追加　浅野 -->
-        <style>body{background-color: tomato;}</style>
+        <!-- 追加　浅野 2020年8月18日 heroku デプロイ -->
+        <style>body{background-color: green;}</style>
 
         {{-- この章の後半で作成するCSSを読み込みます --}}
         <link href="{{ asset('css/admin.css') }}" rel="stylesheet">
