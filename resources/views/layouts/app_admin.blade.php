@@ -20,7 +20,7 @@
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
 
     <!-- 追加　浅野　-->
-    <style>body{background-color: tomato;}</style>
+    <style>body{background-color: green;}</style>
 
 </head>
 <body>
